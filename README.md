@@ -1,9 +1,5 @@
 # Hi I'm Alex
 
-<table>
-<tr>
-<td>
-
 I am a <strong>Systems Engineer</strong> and <strong>Software Developer</strong>, focused on low-level systems programming and building operating systems.<br>
 I also build tools with Python and develop web-based projects.
 
@@ -12,13 +8,10 @@ I also build tools with Python and develop web-based projects.
 - I am open to PRs on my repos
 - You can reach me at: <a href="mailto:alexdev8930@proton.me"><img src="https://img.shields.io/badge/Email-alexdev8930%40proton.me-0066FF?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=595A5C" height="24" alt="Email" align="absmiddle"></a>
 
-</td>
-</tr>
-</table>
-
 ---
 
-## Languages & Tools I use
+
+## Languages & Tools I use:
 
 <table>
 <tr>
@@ -38,25 +31,16 @@ I also build tools with Python and develop web-based projects.
 
 ---
 
-## I'm Currently Working On
+## I'm Currently Working On:
 
-<table>
-<tr>
-<td>
-
-<strong><big>NoviumOS</big></strong> &nbsp; <a href="https://github.com/alexdev8930/NoviumOS"><img src="https://img.shields.io/badge/View_Repo↗-0066FF?style=for-the-badge&logo=github&logoColor=white&labelColor=595A5C" height="24" alt="View Repo" align="texttop"></a>
+### <strong>NoviumOS</strong> &nbsp; <a href="https://github.com/alexdev8930/NoviumOS"><img src="https://img.shields.io/badge/View_Repo↗-0066FF?style=for-the-badge&logo=github&logoColor=white&labelColor=595A5C" height="24" alt="View Repo" align="absmiddle"></a>
 
 A <strong>32-bit x86 operating system</strong> built from scratch using <strong>C and Assembly</strong>, with <strong>GRUB</strong> as the bootloader.
 
-</td>
-</tr>
-</table>
+---
 
-## Goals
 
-<table>
-<tr>
-<td>
+## Goals:
 
 - Keep expanding and building on NoviumOS
 - Get better at low-level systems programming
@@ -64,7 +48,3 @@ A <strong>32-bit x86 operating system</strong> built from scratch using <strong>
 - Sharpen my Python skills for scripting and automation
 - Build more web projects
 - Write more about what I'm working on
-
-</td>
-</tr>
-</table>
