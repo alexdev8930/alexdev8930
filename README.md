@@ -18,7 +18,7 @@ I also build tools with Python and develop web-based projects.
 <td><img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Assembly_Language_Logo.png" width="48" height="48" alt="Assembly"></td>
 <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="40" height="40" alt="C"></td>
 <td><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40" alt="Python"></td>
-<td><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" width="60" height="40" alt="Go"></td>
+<td><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Go_gopher_favicon.svg" width="40" height="40" alt="Go"></td>
 <td><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="40" height="40" alt="HTML"></td>
 <td><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="40" height="40" alt="CSS"></td>
 <td><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="40" height="40" alt="VS Code"></td>
@@ -32,18 +32,22 @@ I also build tools with Python and develop web-based projects.
 
 ---
 
-## I'm Currently Working On:
+## My Repos:
 
 ### <strong>NoviumOS</strong> &nbsp; <a href="https://github.com/alexdev8930/NoviumOS"><img src="https://img.shields.io/badge/View_Repo↗-0066FF?style=for-the-badge&logo=github&logoColor=white&labelColor=595A5C" height="24" alt="View Repo" align="absmiddle"></a>
 
 A <strong>32-bit x86 operating system</strong> built from scratch using <strong>C and Assembly</strong>, with <strong>GRUB</strong> as the bootloader.
+
+### <strong>Raspberry Pi backend server</strong> &nbsp; <a href="https://github.com/alexdev8930/raspberry-pi-backend-server"><img src="https://img.shields.io/badge/View_Repo↗-0066FF?style=for-the-badge&logo=github&logoColor=white&labelColor=595A5C" height="24" alt="View Repo" align="absmiddle"></a>
+
+A <strong>backend server</strong> written in <strong>Go</strong> for my <strong>Raspeberry Pi</strong>.
 
 ---
 
 
 ## Goals:
 
-- Keep expanding and building on NoviumOS
+- Keep expanding and building on NoviumOS and my Raspberry pi server
 - Get better at low-level systems programming
 - Contribute to open-source projects
 - Sharpen my Python skills for scripting and automation
