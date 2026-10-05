@@ -38,16 +38,16 @@ I also build tools with Python and develop web-based projects.
 
 A <strong>32-bit x86 operating system</strong> built from scratch using <strong>C and Assembly</strong>, with <strong>GRUB</strong> as the bootloader.
 
-### <strong>Raspberry Pi backend server</strong> &nbsp; <a href="https://github.com/alexdev8930/raspberry-pi-backend-server"><img src="https://img.shields.io/badge/View_Repo↗-0066FF?style=for-the-badge&logo=github&logoColor=white&labelColor=595A5C" height="24" alt="View Repo" align="absmiddle"></a>
+### <strong>Koala</strong> &nbsp; <a href="https://github.com/alexdev8930/raspberry-pi-backend-server"><img src="https://img.shields.io/badge/View_Repo↗-0066FF?style=for-the-badge&logo=github&logoColor=white&labelColor=595A5C" height="24" alt="View Repo" align="absmiddle"></a>
 
-A <strong>backend server</strong> written in <strong>Go</strong> for my <strong>Raspeberry Pi</strong>.
+A <strong>Raspberry Pi backend server</strong> written in <strong>Go</strong> for my <strong>Raspberry Pi</strong>.
 
 ---
 
 
 ## Goals:
 
-- Keep expanding and building on NoviumOS and my Raspberry pi server
+- Keep expanding and building on NoviumOS and Koala
 - Get better at low-level systems programming
 - Contribute to open-source projects
 - Sharpen my Python skills for scripting and automation
