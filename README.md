@@ -19,12 +19,12 @@ I also build tools with Python and develop web-based projects.
 <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="40" height="40" alt="C"></td>
 <td><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40" alt="Python"></td>
 <td><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Go_gopher_favicon.svg" width="40" height="40" alt="Go"></td>
-<td><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="40" height="40" alt="HTML"></td>
-<td><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="40" height="40" alt="CSS"></td>
+<td><img src="https://cdn.simpleicons.org/html5" width="40" height="40" alt="HTML"></td>
+<td><img src="https://cdn.simpleicons.org/css/1572B6" width="40" height="40" alt="CSS"></td>
 <td><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="40" height="40" alt="VS Code"></td>
 <td><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Bash_Logo_Colored.svg" width="40" height="40" alt="Bash"></td>
 <td><img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Heckert_GNU_white.svg" width="40" height="40" alt="GNU Make"></td>
-<td><img src="https://github.com/fluidicon.png" width="40" height="40" alt="GitHub"></td>
+<td><img src="https://cdn.simpleicons.org/github/ffffff" width="40" height="40" alt="GitHub"></td>
 <td><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="40" height="40" alt="Git"></td>
 <td><img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="40" height="40" alt="Linux"></td>
 </tr>
