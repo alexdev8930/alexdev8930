@@ -17,6 +17,7 @@ I also build tools with Python and develop web-based projects.
 <tr>
 <td><img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Assembly_Language_Logo.png" width="48" height="48" alt="Assembly"></td>
 <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="40" height="40" alt="C"></td>
+<td><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="40" height="40" alt="C++"></td>
 <td><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40" alt="Python"></td>
 <td><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Go_gopher_favicon.svg" width="40" height="40" alt="Go"></td>
 <td><img src="https://cdn.simpleicons.org/html5" width="40" height="40" alt="HTML"></td>
