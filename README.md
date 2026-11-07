@@ -46,7 +46,7 @@ A <strong>32-bit x86 operating system</strong> built from scratch using <strong>
 
 ### <strong>GLSA</strong> &nbsp; <a href="https://github.com/alexdev8930/glsa"><img src="https://img.shields.io/badge/View_Repo↗-0066FF?style=for-the-badge&logo=github&logoColor=white&labelColor=595A5C" height="24" alt="View Repo" align="absmiddle"></a>
 
-A <strong>single-header, lightweight C++ OpenGL wrapper</strong> that maps native <strong>GPU shaders directly to clean C++ function calls</strong>.
+A <strong>header-only, lightweight C++ OpenGL wrapper</strong> that maps native <strong>GPU shaders directly to clean C++ function calls</strong>.
 
 ---
 
